@@ -22,7 +22,7 @@ comment-incentives: true
 max-concurrent-assigns: 5
 promotion-comment: ""
 assistive-pricing: true
-register-wallet-with-verification: true
+register-wallet-with-verification: false
 command-settings:
   - name: start
     enabled: true
